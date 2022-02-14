@@ -728,6 +728,15 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+      - name: Andrew Hu
+    github: 
+      username: feedme143
+      role: member
+    mailgun:
+      email: andrewhu@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
